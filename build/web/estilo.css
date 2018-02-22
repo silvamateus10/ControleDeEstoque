@@ -1,0 +1,93 @@
+/* 
+    Created on : 25/05/2016, 19:48:53
+    Author     : Mateus
+*/
+div#interface{
+    width: 1100px;
+    background-color: rgb(240,240,240); 
+    margin: -20px auto 0px auto;
+    box-shadow:  0px 0px 10px black; 
+    padding: 10px 10px 10px 10px;
+
+
+}
+
+div#interface2{
+
+    width: 500px;
+    background-color:white; 
+    margin: -20px auto 0px auto;
+    box-shadow:  0px 0px 10px black; 
+    padding: 10px 10px 10px 10px;
+    margin-top: 50px;
+}
+
+.interfaceOperacoes{
+    width: 1100px;
+    
+    margin: -20px auto 0px auto;
+    box-shadow:  0px 0px 10px black; 
+    padding: 10px 10px 10px 10px;
+    
+}
+
+#formLogin{
+    width: 200px;
+    margin: auto;
+
+}
+#fildLogin{
+    width: 200px;
+    margin: 20px;
+}
+#login{
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+.formOpreracoes{
+    width: 500px;
+    margin: auto;
+    
+}
+.fildOperacoes{
+    width: 200px;
+    margin: 20px;
+    
+}
+.operacoes{
+    width: 500px;
+    margin: auto;
+    margin-top: 25px;
+    
+}
+
+.menu{
+    font-size: 40pt;
+    box-shadow:  5px 5px 5px black; 
+    background-color: rgb(240,240,240) ;
+    text-decoration: none;
+    color: #000;
+}
+.menu:hover{
+    background-color: #000;
+    color: #ff0033;
+}
+.linkButton{
+
+    box-shadow:  0px 0px 5px black; 
+    background-color: rgb(240,240,240) ;
+    text-decoration: none;
+    color: #000;
+}
+.linkButton:hover{
+    background-color: #000;
+    color: #ff0033;
+}
+
+input:hover{
+    background-color: #cccccc;
+}
+textArea:hover{
+    background-color: #cccccc;
+}
